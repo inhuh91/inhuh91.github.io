@@ -25,5 +25,7 @@ In addition to my academic work, I am a staff research engineer in the Computati
 📰 News
 ======
 
-**May 2025**  
-Our paper **"Context-Informed Neural ODEs Unexpectedly Identify Broken Symmetries: Insights from the Poincaré-Hopf Theorem"** is accepted to **ICML 2025**.
+<p align="justify">
+<strong>May 2025</strong>
+Our paper <strong>"Context-Informed Neural ODEs Unexpectedly Identify Broken Symmetries: Insights from the Poincaré-Hopf Theorem"</strong> is accepted to <strong>ICML 2025</strong>.
+</p>
