@@ -11,54 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Electrical and Computer Engineering, Purdue University, 2028 (expected)
+  * Supervised by Prof. Muhammad Ashraful Alam
+    * Specializing in AI for Science
+* MS in Electronic Engineering, Sogang University, 2014
+  * Supervised by Prof. Woo Young Choi (Now at Seoul National University)
+    * Specializing in Semiconductor Device Modeling and Simulation
+* BS in Electronic Engineering, Sogang University, 2012
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* (2017–Present) Staff Research Engineer, Advanced Simulation Group, CSE Team, Samsung Electronics
+  * Develop, apply, and optimize machine learning algorithms for semiconductor device design and analysis
+    * Symmetry- and geometry-aware representation learning of high-dimensional data like wafer map images.
+    * A novel physics-driven neural differential equation model for learning dynamical systems. 
+    * Real-time device and process simulation with deep neural networks. 
+    * Automatic generation of DRAM design test vectors using deep reinforcement learning.
+* (2017–2018) Research Engineer, Logic TCAD Group, CAE Team, Samsung Electronics
+  * Analyzed gate stack structures of 7-nm fin transistors using theoretical approaches and numerical simulations.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Other Achievements
+=====
+* Filed 5 US patents and 9 pending US patent applications in AI and simulation technologies
+* Serving as a reviewer for NeurIPS, ICML, ICLR, and AISTATS.
+* Recognized with 7 Samsung technical awards, including two CEO-level commendations.
+* Fully supported by Samsung Electronics for MS and Ph.D. studies.
