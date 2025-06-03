@@ -23,7 +23,7 @@ Education
 
 Work Experience
 ======
-* **Staff Research Engineer**, Advanced Simulation Group, CSE Team, **Samsung Electronics** (Mar. 2018–present) 
+* **Staff Research Engineer**, Advanced Simulation Group, CSE Team, **Samsung Electronics** (Mar. 2018–Present) 
   * Developed and optimized machine learning algorithms for semiconductor device design and analysis. Key achievements include:
     * Developed symmetry- and geometry-aware representation learning methods for high-dimensional data such as wafer map images.
     * Proposed a novel physics-informed neural differential equation model for learning dynamical systems. 
@@ -44,10 +44,10 @@ Publications
 
 Academic Activities
 =====
-* Reviewer of NeurIPS (2021–present)
-* Reviewer of ICML (2021–present)
-* Reviewer of ICLR (2022–present)
-* Reviewer of AISTATS (2024–present)
+* Reviewer of NeurIPS (2021–Present)
+* Reviewer of ICML (2021–Present)
+* Reviewer of ICLR (2022–Present)
+* Reviewer of AISTATS (2024–Present)
 <hr>
 
 Other Achievements
