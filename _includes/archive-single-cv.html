@@ -46,14 +46,8 @@
         <i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}
       </p>
     {% endif %}
-
-    {% if post.venue %}
-      <p class="archive__item-excerpt"
-         style="font-size: 0.85rem; line-height: 1.2; margin: 0;">
-        Published in <i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
-      </p>
-    {% endif %}
-
+    {% if post.venue%}
+      <p class="archive__item-excerpt" style="font-size: 0.85rem; line-height: 1.2; margin: 0;"> itemprop="description">{{ post.citation }}</p> {% endif %}
     </li>
   </article>
 </div>
