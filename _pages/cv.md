@@ -18,6 +18,7 @@ Education
   * Supervised by Prof. [Woo Young Choi](https://sites.google.com/view/snutidl) (Now at Seoul National University)
     * Specializing in Semiconductor Device Modeling and Simulation
 * BS in Electronic Engineering, Sogang University, 2012
+<hr>
 
 Work Experience
 ======
@@ -29,6 +30,7 @@ Work Experience
     * Automatic generation of DRAM design test vectors using deep reinforcement learning.
 * (2017–2018) Research Engineer, Logic TCAD Group, CAE Team, Samsung Electronics
   * Analyzed gate stack structures of 7-nm fin transistors using theoretical approaches and numerical simulations.
+<hr>
 
 Publications
 ======
@@ -37,6 +39,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
+<hr>
 
 Other Achievements
 =====
