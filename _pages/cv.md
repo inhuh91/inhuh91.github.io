@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* PhD in Electrical and Computer Engineering, Purdue University, 2028 (expected)
+* **Ph.D.** in Electrical and Computer Engineering, **Purdue University**, 2028 (expected)
   * Supervised by Prof. [Muhammad Ashraful Alam](https://sites.google.com/view/alam-research-group/home)
     * Specializing in AI for Science
-* MS in Electronic Engineering, Sogang University, 2014
+* **M.S.** in Electronic Engineering, **Sogang University**, 2017
   * Supervised by Prof. [Woo Young Choi](https://sites.google.com/view/snutidl) (Now at Seoul National University)
     * Specializing in Semiconductor Device Modeling and Simulation
-* BS in Electronic Engineering, Sogang University, 2012
+* **B.S.** in Electronic Engineering, **Sogang University**, 2015
 <hr>
 
 Work Experience
 ======
-* (2017–Present) Staff Research Engineer, Advanced Simulation Group, CSE Team, Samsung Electronics
-  * Develop, apply, and optimize machine learning algorithms for semiconductor device design and analysis
-    * Symmetry- and geometry-aware representation learning of high-dimensional data like wafer map images.
-    * A novel physics-driven neural differential equation model for learning dynamical systems. 
-    * Real-time device and process simulation with deep neural networks. 
-    * Automatic generation of DRAM design test vectors using deep reinforcement learning.
-* (2017–2018) Research Engineer, Logic TCAD Group, CAE Team, Samsung Electronics
+* (2017–Present) **Staff Research Engineer**, Advanced Simulation Group, CSE Team, **Samsung Electronics**
+  * Developed and optimized machine learning algorithms for semiconductor device design and analysis. Key achievements include:
+    * Developed symmetry- and geometry-aware representation learning methods for high-dimensional data such as wafer map images.
+    * Proposed a novel physics-informed neural differential equation model for learning dynamical systems. 
+    * Enabled real-time device and process simulations using deep neural networks. 
+    * Automated DRAM design test vector generation using deep reinforcement learning.
+* (2017–2018) **Research Engineer**, Logic TCAD Group, CAE Team, **Samsung Electronics**
   * Analyzed gate stack structures of 7-nm fin transistors using theoretical approaches and numerical simulations.
 <hr>
 
