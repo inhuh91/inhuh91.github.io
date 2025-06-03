@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! My name is **In Huh**, and I am a first-year Ph.D. student in Electrical and Computer Engineering at Purdue University, working with Prof. [Muhammad Ashraful Alam](https://sites.google.com/view/alam-research-group/home).
+Hi! My name is In Huh, and I am a first-year Ph.D. student in Electrical and Computer Engineering at Purdue University, working with Prof. [Muhammad Ashraful Alam](https://sites.google.com/view/alam-research-group/home).
 
 My research focuses on **geometric and topological methods for AI and machine learning**, particularly their applications in modeling complicated physical systems (e.g., semiconductor devices and materials). I am especially interested in **leveraging deep learning methods enriched with topological insights to detect bifurcations, phase transitions, and critical shifts from data**. 
 
