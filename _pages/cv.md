@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * PhD in Electrical and Computer Engineering, Purdue University, 2028 (expected)
-  * Supervised by Prof. Muhammad Ashraful Alam
+  * Supervised by Prof. [Muhammad Ashraful Alam](https://sites.google.com/view/alam-research-group/home)
     * Specializing in AI for Science
 * MS in Electronic Engineering, Sogang University, 2014
-  * Supervised by Prof. Woo Young Choi (Now at Seoul National University)
+  * Supervised by Prof. [Woo Young Choi](https://sites.google.com/view/snutidl) (Now at Seoul National University)
     * Specializing in Semiconductor Device Modeling and Simulation
 * BS in Electronic Engineering, Sogang University, 2012
 
