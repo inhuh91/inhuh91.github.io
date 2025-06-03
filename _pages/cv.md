@@ -11,25 +11,25 @@ redirect_from:
 
 Education
 ======
-* **Ph.D.** in Electrical and Computer Engineering, **Purdue University**  (Aug. 2024 – May 2028)
+* **Ph.D.** in Electrical and Computer Engineering, **Purdue University**  (Aug. 2024–present)
   * Supervised by Prof. [Muhammad Ashraful Alam](https://sites.google.com/view/alam-research-group/home)
     * Specializing in AI for science
-* **M.S.** in Electronic Engineering, **Sogang University** (Mar. 2015 – Feb. 2017)
+* **M.S.** in Electronic Engineering, **Sogang University** (Mar. 2015–Feb. 2017)
   * Supervised by Prof. [Woo Young Choi](https://sites.google.com/view/snutidl) (Now at Seoul National University)
     * Specializing in semiconductor device modeling and simulation
-* **B.S.** in Electronic Engineering, **Sogang University** (Mar. 2009 – Feb. 2015)
+* **B.S.** in Electronic Engineering, **Sogang University** (Mar. 2009–Feb. 2015)
     * Including two years of mandatory military service
 <hr>
 
 Work Experience
 ======
-* **Staff Research Engineer**, Advanced Simulation Group, CSE Team, **Samsung Electronics** (Mar. 2018 – Present) 
+* **Staff Research Engineer**, Advanced Simulation Group, CSE Team, **Samsung Electronics** (Mar. 2018–present) 
   * Developed and optimized machine learning algorithms for semiconductor device design and analysis. Key achievements include:
     * Developed symmetry- and geometry-aware representation learning methods for high-dimensional data such as wafer map images.
     * Proposed a novel physics-informed neural differential equation model for learning dynamical systems. 
     * Enabled real-time device and process simulations using deep neural networks. 
     * Automated DRAM design test vector generation using deep reinforcement learning.
-* **Research Engineer**, Logic TCAD Group, CAE Team, **Samsung Electronics** (Mar. 2017 – Feb. 2018)
+* **Research Engineer**, Logic TCAD Group, CAE Team, **Samsung Electronics** (Mar. 2017–Feb. 2018)
   * Analyzed gate stack structures of 7-nm fin transistors using theoretical approaches and numerical simulations.
 <hr>
 
@@ -40,6 +40,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
+<hr>
+
+Academic Activities
+=====
+* Reviewer of NeurIPS (2021–present)
+* Reviewer of ICML (2021–present)
+* Reviewer of ICLR (2022–present)
+* Reviewer of AISTATS (2024–present)
 <hr>
 
 Other Achievements
