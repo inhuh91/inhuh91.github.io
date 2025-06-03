@@ -26,6 +26,11 @@ In addition to my academic work, I am a staff research engineer in the Computati
 ======
 
 <p align="justify">
-<strong>May 2025</strong>
+<strong>[May 2025]</strong>
 Our paper <strong>"Context-Informed Neural ODEs Unexpectedly Identify Broken Symmetries: Insights from the Poincaré-Hopf Theorem"</strong> is accepted to <strong>ICML 2025</strong>.
+</p>
+
+<p align="justify">
+<strong>[Aug. 2024]</strong>
+I have started the Ph.D. program in Electrical and Computer Engineering at Purdue University.
 </p>
