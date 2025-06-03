@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify;">
+<div class="justify-text">
 
 Hi! My name is In Huh, and I am a first-year Ph.D. student in Electrical and Computer Engineering at Purdue University, working with Prof. [Muhammad Ashraful Alam](https://sites.google.com/view/alam-research-group/home).
 
@@ -21,7 +21,7 @@ In addition to my academic work, I am a staff research engineer in the Computati
 📰 News
 ======
 
-<div style="text-align: justify;">
+<div class="justify-text">
 
 **May 2025**  
 Our paper **"Context-Informed Neural ODEs Unexpectedly Identify Broken Symmetries: Insights from the Poincaré-Hopf Theorem"** is accepted to **ICML 2025**.
