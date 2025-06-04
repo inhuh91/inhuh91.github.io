@@ -31,6 +31,11 @@ Our paper <strong>"Context-Informed Neural ODEs Unexpectedly Identify Broken Sym
 </p>
 
 <p align="justify">
+<strong>[Feb. 2025]</strong>
+Our paper <strong>"ML-Driven Compact Models for RRAMs: Addressing Variability and Simulation Efficiency"</strong> is accepted to <strong>IEEE EDL</strong>.
+</p>
+
+<p align="justify">
 <strong>[Aug. 2024]</strong>
 I have started the Ph.D. program in Electrical and Computer Engineering at Purdue University.
 </p>
