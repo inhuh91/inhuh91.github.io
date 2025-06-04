@@ -11,8 +11,9 @@ summary: 'Sanghoon Myung, ..., <strong>In Huh</strong>, ..., et al., <i>Japanese
 header:
   teaser: rttcad_jjap.png
 ---
+<p align="justify">
 Technology computer-aided design (TCAD) simulation has incessantly solved many complex problems, but it becomes demanding that alternatives be found because TCAD simulation cannot provide precise and fast prediction in the nano-scale era. With the success story of deep learning in research area, many big data companies have attempted to introduce deep learning to support or replace TCAD simulation. The reason is deep learning models have great potential that solves the problems of the TCAD simulation in terms of execution time and coverage. This paper aims to describe various scenarios of deep learning applicable to TCAD. We first describe an application that supplies TCAD data to the deep learning model although TCAD simulation is not calibrated. We then review various approaches that mimic TCAD simulation itself. We finally introduce an application that deep learning model automatically calibrates TCAD models to the measurement without experts. In each scenario, we review the related papers and compare pros and cons.
-
+</p>
 <hr>
 
 Sanghoon Myung, ..., <strong>In Huh</strong>, ..., et al., <i>Japanese Journal of Applied Physics (<strong>JJAP</strong>)</i>, 2023.
