@@ -1,5 +1,5 @@
 ---
-title: "Comprehensive studies on deep learning applicable to TCAD"
+title: "Comprehensive Studies on Deep Learning Applicable to TCAD"
 collection: publications
 category: manuscripts
 permalink: /publication/rttcad_jjap

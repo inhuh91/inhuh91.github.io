@@ -19,7 +19,7 @@ Naturally, I am also drawn to deep learning models grounded in dynamical systems
 </p>
 
 <p align="justify">
-In addition to my academic work, I am a staff research engineer in the Computational Science and Engineering (CSE) Team at Samsung Electronics. I am currently on a company-sponsored Ph.D. training program at Purdue.
+In addition to my academic work, I am a staff research engineer in the Computational Science and Engineering (CSE) Team at Samsung Electronics. I am currently pursuing a Ph.D. at Purdue as part of a company-sponsored academic training program.
 </p>
 
 📰 News
