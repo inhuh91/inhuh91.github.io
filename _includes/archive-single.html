@@ -12,12 +12,38 @@
   {% assign title = post.title %}
 {% endif %}
 
+<style>
+  .responsive-flex {
+    display: flex;
+    gap: 1.2rem;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+    flex-direction: row;
+  }
+
+  .teaser-box {
+    flex: 0 0 160px;
+  }
+
+  @media (max-width: 768px) {
+    .responsive-flex {
+      flex-direction: column;
+    }
+
+    .teaser-box,
+    .archive__item-teaser {
+      flex: none;
+      width: 100% !important;
+      max-width: 100%;
+    }
+  }
+</style>
+
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork"
-           style="display: flex; gap: 1.2rem; align-items: flex-start; margin-bottom: 1.5rem;">
+  <article class="archive__item responsive-flex" itemscope itemtype="http://schema.org/CreativeWork">
 
     {% if teaser %}
-      <div class="archive__item-teaser" style="flex: 0 0 160px;">
+      <div class="archive__item-teaser teaser-box">
         <img src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
