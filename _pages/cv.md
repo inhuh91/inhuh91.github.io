@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D.** in Electrical and Computer Engineering, **Purdue University**  (Aug. 2024–present)
+* **Ph.D.** in Electrical and Computer Engineering, **Purdue University**  (Aug. 2024–Present)
   * Supervised by Prof. [Muhammad Ashraful Alam](https://sites.google.com/view/alam-research-group/home)
     * Specializing in AI for science
 * **M.S.** in Electronic Engineering, **Sogang University** (Mar. 2015–Feb. 2017)
