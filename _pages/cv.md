@@ -55,4 +55,4 @@ Other Achievements
 * Filed five US patents and nine pending US patent applications in AI and simulation technologies.
 * Serving as a reviewer for NeurIPS, ICML, ICLR, and AISTATS.
 * Recognized with seven Samsung technical awards, including two CEO-level commendations.
-* Fully supported by Samsung Electronics for MS and Ph.D. studies.
+* Fully supported by Samsung Electronics for M.S. and Ph.D. studies.
