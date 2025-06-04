@@ -50,9 +50,24 @@ Academic Activities
 * Reviewer of AISTATS (2024–Present)
 <hr>
 
-Other Achievements
+Honors and Awards
 =====
-* Filed five US patents and nine pending US patent applications in AI and simulation technologies.
-* Serving as a reviewer for NeurIPS, ICML, ICLR, and AISTATS.
-* Recognized with seven Samsung technical awards, including two CEO-level commendations.
-* Fully supported by Samsung Electronics for M.S. and Ph.D. studies.
+* SEC Annual Award (Business Innovation Section, Bronze Prize), Samsung Electronics, 2021
+* DIT Center Best Paper Award, Samsung Electronics, 2021
+* DIT Center Best Paper Award, Samsung Electronics, 2020
+* Samsung Best Paper Award (Silver Prize), Samsung Electronics, 2019
+* SEC Annual Award (Creativity Section, Gold Prize), Samsung Electronics, 2018
+* Memory Business Innovation Challenge (Gold Prize), Samsung Electronics, 2018
+* Data Science Festival (Special Prize), Samsung Electronics, 2018
+* Qualcomm Best Paper Award, Qualcomm Korea, 2016
+* EDISON Challenge (Special Prize), National Research Foundation of Korea, 2016
+<hr>
+
+Patents
+=====
+* Method and apparatus with system verification based on reinforcement learning, US Patent 12175177, 2024
+* Device for generating verification vector for circuit design verification, circuit design system, and reinforcement learning method of the device and the circuit design system, US Patent 11861280, 2024
+* Simulation system for semiconductor process and simulation method there of, US Patent 11886783, 2024
+* Method and apparatus for selecting model of machine learning based on meta-learning, US Patent 11681947, 2023
+* Electronic devices generating verification vector for verifying semiconductor circuit and methods of operating the same, US Patent 11669773, 2023
+* Method for detecting defects in semiconductor device, US Patent 11507801, 2022

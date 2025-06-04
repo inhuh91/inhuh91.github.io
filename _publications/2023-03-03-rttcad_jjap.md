@@ -7,7 +7,7 @@ excerpt: 'Sanghoon Myung, Byungseon Choi, Wonik Jang, Jinwoo Kim, <strong>In Huh
 date: 2023-03-03
 venue: 'Japanese Journal of Applied Physics (<strong>JJAP</strong>)'
 paperurl: 'https://iopscience.iop.org/article/10.35848/1347-4065/acbaa6/meta'
-summary: 'Sanghoon Myung, ..., <strong>In Huh</strong>, ..., et al., <i>Japanese Journal of Applied Physics (<strong>JJAP</strong>)</i>, 2023.'
+summary: 'Sanghoon Myung, ..., <strong>In Huh</strong>, ..., et al., <i>Japanese Journal of Applied Physics (<strong>JJAP</strong>)</i>, 2023'
 header:
   teaser: rttcad_jjap.png
 ---
@@ -16,6 +16,6 @@ Technology computer-aided design (TCAD) simulation has incessantly solved many c
 </p>
 <hr>
 
-Sanghoon Myung, ..., <strong>In Huh</strong>, ..., et al., <i>Japanese Journal of Applied Physics (<strong>JJAP</strong>)</i>, 2023.
+Sanghoon Myung, ..., <strong>In Huh</strong>, ..., et al., <i>Japanese Journal of Applied Physics (<strong>JJAP</strong>)</i>, 2023
 
 [Download Paper](https://iopscience.iop.org/article/10.35848/1347-4065/acbaa6/meta)
