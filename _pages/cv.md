@@ -15,7 +15,7 @@ Education
   * Supervised by Prof. [Muhammad Ashraful Alam](https://sites.google.com/view/alam-research-group/home)
     * Specializing in AI for science
 * **M.S.** in Electronic Engineering, **Sogang University** (Mar. 2015–Feb. 2017)
-  * Supervised by Prof. [Woo Young Choi](https://sites.google.com/view/snutidl) (Now at Seoul National University)
+  * Supervised by Prof. [Woo Young Choi](https://sites.google.com/view/snutidl) (now at Seoul National University)
     * Specializing in semiconductor device modeling and simulation
 * **B.S.** in Electronic Engineering, **Sogang University** (Mar. 2009–Feb. 2015)
     * Including two years of mandatory military service
