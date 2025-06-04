@@ -52,6 +52,7 @@ Academic Activities
 
 Honors and Awards
 =====
+* Full sponsorship for overseas Ph.D. study, Samsung Electronics, 2024
 * SEC Annual Award (Business Innovation Section, Bronze Prize), Samsung Electronics, 2021
 * DIT Center Best Paper Award, Samsung Electronics, 2021
 * DIT Center Best Paper Award, Samsung Electronics, 2020
