@@ -11,11 +11,11 @@ Hi! My name is In Huh, and I am a first-year Ph.D. student in Electrical and Com
 </p>
 
 <p align="justify">
-My research focuses on <strong>geometric and topological methods for AI and machine learning</strong>, particularly their applications in modeling complex physical systems (e.g., semiconductor devices and materials). I am especially interested in <strong>leveraging deep learning methods enriched with topological insights to detect bifurcations, phase transitions, and catastrophic shifts hidden in seemingly regular data</strong>. Naturally, I am also drawn to deep learning models grounded in dynamical systems theory, such as neural ODEs, and to problems in out-of-distribution (OOD) detection, since learning bifurcations can be viewed as an OOD problem with respect to the parameters of the underlying system.
+My research focuses on <strong>geometric and topological methods for AI and machine learning</strong>, particularly their applications in modeling complex physical systems (e.g., semiconductor devices and materials). I am especially interested in <strong>leveraging deep learning methods enriched with topological insights to detect bifurcations, phase transitions, and catastrophic shifts hidden in seemingly regular data</strong>. Naturally, I am also drawn to deep learning models grounded in dynamical systems theory, such as neural ordinary differential equations (ODEs), and to problems in out-of-distribution (OOD) detection, since learning bifurcations can be viewed as an OOD problem with respect to the parameters of the underlying system.
 </p>
 
 <p align="justify">
-My earlier research has centered on theoretical electron transport and its application to the mathematical modeling of low-power semiconductor devices, including tunnel field-effect transistors (TFETs) and negative-capacitance FETs (NCFETs).
+My earlier research has centered on electron transport theory and its application to the mathematical modeling of low-power semiconductor devices, including tunnel field-effect transistors (TFETs) and negative-capacitance FETs (NCFETs).
 </p>
 
 <p align="justify">
