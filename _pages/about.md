@@ -16,7 +16,7 @@ My research focuses on <strong>geometric and topological methods for AI and mach
 
 <p align="justify">
 My earlier research has centered on theoretical electron transport and its application to the mathematical modeling of low-power semiconductor devices, including tunnel field-effect transistors (TFETs) and negative-capacitance FETs (NCFETs).
-<p align="justify">
+</p>
 
 <p align="justify">
 In addition to my academic work, I am a staff research engineer in the Computational Science and Engineering (CSE) Team at Samsung Electronics. I am currently pursuing a Ph.D. at Purdue as part of a company-sponsored academic training program.
