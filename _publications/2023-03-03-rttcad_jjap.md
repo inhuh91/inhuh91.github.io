@@ -2,7 +2,7 @@
 title: "Comprehensive Studies on Deep Learning Applicable to TCAD"
 collection: publications
 category: manuscripts
-permalink: /publication/rttcad_jjap
+permalink: /publication/jjap2023
 excerpt: 'Sanghoon Myung, Byungseon Choi, Wonik Jang, Jinwoo Kim, <strong>In Huh</strong>, Jae Myung Choe, Young-Gu Kim, Dae Sin Kim'
 date: 2023-03-03
 venue: 'Japanese Journal of Applied Physics (<strong>JJAP</strong>)'
