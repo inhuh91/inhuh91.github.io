@@ -24,6 +24,10 @@ In addition to my academic work, I am a staff research engineer in the Computati
 
 News
 ======
+<p align="justify">
+<strong>[Apr. 2026]</strong>
+Our paper <strong>"Identifiable Smooth Conjugacy Learning via Adversarial Orthogonality"</strong> is accepted to <strong>ICML 2026</strong>.
+</p>
 
 <p align="justify">
 <strong>[May 2025]</strong>
