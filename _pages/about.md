@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-Hi! My name is In Huh, and I am a first-year Ph.D. student in Electrical and Computer Engineering at Purdue University, working under the supervision of Prof. <a href="https://sites.google.com/view/alam-research-group/home">Muhammad Ashraful Alam</a>.
+Hi! My name is In Huh, and I am a second-year Ph.D. student in Electrical and Computer Engineering at Purdue University, working under the supervision of Prof. <a href="https://sites.google.com/view/alam-research-group/home">Muhammad Ashraful Alam</a>.
 </p>
 
 <p align="justify">
