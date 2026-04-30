@@ -30,6 +30,11 @@ Our paper <strong>"Identifiable Smooth Conjugacy Learning via Adversarial Orthog
 </p>
 
 <p align="justify">
+<strong>[Apr. 2026]</strong>
+Our paper <strong>"Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-thin-body MOSFETs"</strong> is accepted to <strong>IEEE EDL</strong>.
+</p>
+
+<p align="justify">
 <strong>[May 2025]</strong>
 Our paper <strong>"Context-Informed Neural ODEs Unexpectedly Identify Broken Symmetries: Insights from the Poincaré-Hopf Theorem"</strong> is accepted to <strong>ICML 2025</strong>.
 </p>
