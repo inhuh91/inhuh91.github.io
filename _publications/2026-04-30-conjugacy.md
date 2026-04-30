@@ -15,4 +15,4 @@ Data-driven dynamical system models often fail to recover the long-term structur
 </p>
 <hr>
 
-<strong>In Huh</strong> et al., <i>International Conference on Machine Learning (<strong>ICML</strong>)</i>, 2025
+<strong>In Huh</strong> et al., <i>International Conference on Machine Learning (<strong>ICML</strong>)</i>, 2026
