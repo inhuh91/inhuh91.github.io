@@ -25,7 +25,7 @@ In addition to my academic work, I am a staff research engineer in the Computati
 News
 ======
 <p align="justify">
-<strong>[Apr. 2026]</strong>
+<strong>[May 2026]</strong>
 I was selected as an ICML 2026 Gold Reviewer.
 </p>
 
