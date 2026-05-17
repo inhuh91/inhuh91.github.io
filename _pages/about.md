@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is In Huh, and I am a second-year Ph.D. student in Electrical and Computer Engineering at Purdue University, working under the supervision of Prof. <a href="https://sites.google.com/view/alam-research-group/home">Muhammad Ashraful Alam</a>.
+Hi! My name is In Huh, and I am a second-year Ph.D. student in Electrical and Computer Engineering at Purdue University, working under the supervision of Prof. <a href="https://sites.google.com/view/alam-research-group/home">Muhammad Ashraful Alam</a>. My research asks **how machine learning can learn the structure of physical systems, rather than only reproduce the statistics of their observations.**
 
 In many areas of machine learning (ML), success is often measured by how well a model approximates a data distribution and generates plausible samples from it. Physical systems, however, require a different notion of learning. Their behavior cannot be understood merely as a collection of observations; rather, it is organized by **geometric and topological structures, such as symmetries, conservation laws, and invariants**. These structures remain meaningful across changes in observational representation, including coordinate transformations, measurement scales, and experimental conditions.
 
