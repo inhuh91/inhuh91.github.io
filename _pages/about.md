@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is In Huh, and I am a second-year Ph.D. student in Electrical and Computer Engineering at Purdue University, working under the supervision of Prof. <a href="https://sites.google.com/view/alam-research-group/home">Muhammad Ashraful Alam</a>. My research asks **how machine learning (ML) can learn the structure of physical systems, rather than only reproduce the statistics of their observations.**
+Hi! My name is In Huh, and I am a second-year Ph.D. student in Electrical and Computer Engineering at Purdue University, working under the supervision of Prof. <a href="https://sites.google.com/view/alam-research-group/home">Muhammad Ashraful Alam</a>. 
 
-In many areas of ML, success is often measured by how well a model approximates a data distribution and generates plausible samples from it. Physical systems, however, require a different notion of learning. Their behavior cannot be understood merely as a collection of observations; rather, it is organized by **geometric and topological structures, such as symmetries, conservation laws, and invariants**. These structures remain meaningful across changes in observational representation, including coordinate transformations, measurement scales, and experimental conditions.
+Modern machine learning (ML) can reproduce what physical systems look like, but it often fails to identify what they are. My research asks **how ML can learn the intrinsic structure of physical systems** rather than merely reproduce the statistics of their observations.
 
-My research focuses on **quotient representation learning** for physical systems. The central goal is **to separate intrinsic dynamical structure from representation-dependent degrees of freedom**. In this framework, topology specifies the qualitative information that must be preserved, while symmetry identifies the representation-dependent transformations to be quotiented out.
+Instead of treating every observed difference as new information, I ask which differences are physically meaningful and which are merely changes of representation. This leads to **quotient representation learning**: separating intrinsic dynamical structure from representation-dependent degrees of freedom. In this view, topological invariants capture the qualitative information that must be preserved, while symmetry groups specify the transformations that should be quotiented out.
 
-By bringing together geometric methods from dynamical systems theory with ML, I aim to build models that recognize when seemingly different datasets represent the same underlying physical phenomenon. Current directions include conjugacy-based transfer learning, topological index learning, and symmetry-aware model reduction, with applications to nonlinear dynamical systems and semiconductor device modeling.
-
-In addition to my academic work, I am a staff research engineer in the Computational Science and Engineering (CSE) Team at Samsung Electronics. I am currently pursuing a Ph.D. at Purdue as part of a company-sponsored academic training program.
+I approach this problem from two complementary directions. A **topology-driven view** asks what must remain invariant for two systems to be considered physically the same. A **symmetry-driven view** asks which observed variations arise only from changes of representation and should therefore be removed. By combining these dual perspectives, I develop quotient learning methods that recognize when seemingly different datasets encode the same underlying physical phenomenon, with applications to nonlinear dynamical systems and semiconductor device modeling.
 
 News
 ======
