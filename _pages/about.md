@@ -17,6 +17,9 @@ I approach this problem from two complementary perspectives. An **invariant-driv
 
 News
 ======
+<strong>[Jun. 2026]</strong>
+Our paper <strong>"A Scaling Theory for the Nonlinear Subthreshold Behavior of Cryogenic UTB MOSFETs"</strong> is accepted to <strong>IEEE EDL</strong>.
+
 <strong>[May 2026]</strong>
 I was selected as an ICML 2026 Gold Reviewer.
 
