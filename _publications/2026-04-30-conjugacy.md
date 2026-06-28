@@ -6,6 +6,7 @@ permalink: /publication/icml2026
 excerpt: '<strong>In Huh</strong>, Changwook Jeong, Muhammad Ashraful Alam'
 date: 2026-04-30
 venue: 'International Conference on Machine Learning (<strong>ICML</strong>)'
+paperurl: 'https://openreview.net/pdf?id=heynVhNKjN'
 summary: '<strong>In Huh</strong> et al., <i>International Conference on Machine Learning (<strong>ICML</strong>)</i>, 2026'
 header:
   teaser: conjugacy.png
@@ -16,3 +17,5 @@ Data-driven dynamical system models often fail to recover the long-term structur
 <hr>
 
 <strong>In Huh</strong> et al., <i>International Conference on Machine Learning (<strong>ICML</strong>)</i>, 2026
+
+[Download Paper](https://openreview.net/pdf?id=heynVhNKjN)
